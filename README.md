@@ -1,12 +1,12 @@
 <p align="center">
-  <video src="./ascii-magic-1.mp4" width="100%" autoplay loop muted></video>
+  <video src="https://raw.githubusercontent.com/YarooqH/YarooqH/main/ascii-magic-1.mp4" width="100%" autoplay loop muted></video>
 </p>
 
 <p align="center">
   <a href="https://github.com/YarooqH">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./neofetch_dark.svg">
-      <img alt="Yarooq Anwar's Terminal Stats" src="./neofetch_light.svg" width="620" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YarooqH/YarooqH/main/neofetch_dark.svg">
+      <img alt="Yarooq Anwar's Terminal Stats" src="https://raw.githubusercontent.com/YarooqH/YarooqH/main/neofetch_light.svg" width="620" />
     </picture>
   </a>
 </p>
@@ -19,7 +19,7 @@
 
 ---
 
-### 🛰️ Core Systems Inventory (Skills)
+### 📡 Core Systems Inventory (Skills)
 <p align="center">
   <a href="https://github.com/YarooqH">
     <img src="https://skillicons.dev/icons?i=ts,js,py,go,react,nextjs,nodejs,nestjs,fastapi,postgres,mongodb,docker,git,linux,bash&theme=dark" alt="Cargo Tech Stack" />
@@ -35,7 +35,7 @@
   * 🧠 Engineered core LLM chat engines, Markdown workspace rendering, and TTS streaming setups for Ejento.ai.
   * 💬 Built and shipped automated messaging adapters across Slack, Discord, and MS Teams.
   * 📊 Designed interactive application analytics dashboards to monitor user activity and API metrics.
-  * 🤖 Partnered with AI researchers to integrate embeddable agents and advanced document tools.
+  * 🤖 Partnered with AI researchers to integrate embeddable agents and document tools.
 
 * 🚀 **Full Stack & React Native Developer** | **Tezaract.ai**
   *Karachi, PK | Oct 2022 - Nov 2024*
