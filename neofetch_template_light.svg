@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Fira Code, Consolas, Monaco, monospace" width="620" height="340">
+  <rect width="620" height="340" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5" />
+  
+  <path d="M0,8 A8,8 0 0,1 8,0 L612,0 A8,8 0 0,1 620,8 L620,30 L0,30 Z" fill="#f6f8fa" />
+  
+  <circle cx="15" cy="15" r="5" fill="#ff5f56" />
+  <circle cx="30" cy="15" r="5" fill="#ffbd2e" />
+  <circle cx="45" cy="15" r="5" fill="#27c93f" />
+  
+  <text x="310" y="19" font-size="12" fill="#57606a" text-anchor="middle">yarooq@uss-yarooq-anwar: ~</text>
+  
+  <!-- ASCII Spacecraft (Left Column) -->
+  <g fill="#0969da" font-size="11">
+    <text x="25" y="70">       .       </text>
+    <text x="25" y="85">      / \      </text>
+    <text x="25" y="100">     /   \     </text>
+    <text x="25" y="115">    /     \    </text>
+    <text x="25" y="130">   |   *   |   </text>
+    <text x="25" y="145">   |  AI   |   </text>
+    <text x="25" y="160">   |  DEV  |   </text>
+    <text x="25" y="175">  /|   *   |\  </text>
+    <text x="25" y="190"> / |   *   | \ </text>
+    <text x="25" y="205">|  /|  *  |\  |</text>
+    <text x="25" y="220">| / |  *  | \ |</text>
+    <text x="25" y="235">|/  |_____|  \|</text>
+    <text x="25" y="250">      v   v    </text>
+    <text x="25" y="265">     (     )   </text>
+    <text x="25" y="280">     (     )   </text>
+  </g>
+  
+  <!-- Neofetch Stats (Right Column) -->
+  <g font-size="13" font-weight="bold">
+    <text x="180" y="70" fill="#0969da">yarooq@github</text>
+    <text x="180" y="82" fill="#57606a">-------------</text>
+    
+    <text x="180" y="105" fill="#1f883d">OS: <tspan fill="#24292f">USS-Yarooq-Anwar (AI &amp; Web Platform)</tspan></text>
+    <text x="180" y="125" fill="#1f883d">Host: <tspan fill="#24292f">Yarooq Anwar (Software Engineer II)</tspan></text>
+    <text x="180" y="145" fill="#1f883d">Kernel: <tspan fill="#24292f">JS/TS, Python, Go, Nest, Next</tspan></text>
+    <text x="180" y="165" fill="#1f883d">Uptime: <tspan fill="#24292f">{UPTIME}</tspan></text>
+    <text x="180" y="185" fill="#1f883d">Active Repos: <tspan fill="#24292f">{REPOS}</tspan></text>
+    <text x="180" y="205" fill="#1f883d">Total Commits: <tspan fill="#24292f">{COMMITS}</tspan></text>
+    <text x="180" y="225" fill="#1f883d">Total Stars: <tspan fill="#24292f">{STARS}</tspan></text>
+    <text x="180" y="245" fill="#1f883d">Followers: <tspan fill="#24292f">{FOLLOWERS}</tspan></text>
+    <text x="180" y="265" fill="#1f883d">Shell: <tspan fill="#24292f">bash / zsh / powershell</tspan></text>
+    <text x="180" y="285" fill="#1f883d">Location: <tspan fill="#24292f">Karachi, PK (Remote US)</tspan></text>
+    
+    <!-- Color Palette Blocks -->
+    <rect x="180" y="305" width="20" height="10" fill="#24292f" />
+    <rect x="205" y="305" width="20" height="10" fill="#cf222e" />
+    <rect x="230" y="305" width="20" height="10" fill="#1a7f37" />
+    <rect x="255" y="305" width="20" height="10" fill="#8250df" />
+    <rect x="280" y="305" width="20" height="10" fill="#0969da" />
+    <rect x="305" y="305" width="20" height="10" fill="#bc4c00" />
+    <rect x="330" y="305" width="20" height="10" fill="#24292f" />
+    <rect x="355" y="305" width="20" height="10" fill="#0969da" />
+  </g>
+</svg>
