@@ -1,67 +1,52 @@
 <p align="center">
-  <video src="https://raw.githubusercontent.com/YarooqH/YarooqH/main/ascii-magic-1.mp4" width="100%" autoplay loop muted></video>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YarooqH/YarooqH/main/profile-hero-dark.svg">
+    <img alt="Yarooq Anwar - AI product engineer" src="https://raw.githubusercontent.com/YarooqH/YarooqH/main/profile-hero-light.svg" width="100%">
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YarooqH">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YarooqH/YarooqH/main/neofetch_dark.svg">
-      <img alt="Yarooq Anwar's Terminal Stats" src="https://raw.githubusercontent.com/YarooqH/YarooqH/main/neofetch_light.svg" width="620" />
-    </picture>
-  </a>
+  <a href="mailto:yarooq1@gmail.com">Email</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/YarooqAnwar">LinkedIn</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/YarooqH">GitHub</a>
 </p>
 
-<p align="center">
-  <a href="mailto:yarooq1@gmail.com"><img src="https://img.shields.io/badge/Email-yarooq1%40gmail.com-00FFCC?style=flat-square&logo=gmail&logoColor=black" /></a>
-  <a href="https://linkedin.com/in/YarooqAnwar"><img src="https://img.shields.io/badge/LinkedIn-YarooqAnwar-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/YarooqH"><img src="https://img.shields.io/badge/GitHub-YarooqH-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
+I am a Software Engineer II building AI-powered products across web, mobile, and workplace systems. I work from the product interface through the services and integrations behind it: LLM experiences, real-time collaboration, APIs, and the operational tooling that keeps them useful.
+
+## What I build
+
+| AI product systems | Connected workplace tools | Production applications |
+| --- | --- | --- |
+| LLM chat experiences, embeddable agents, document tools, and streaming interfaces. | Messaging adapters and automation across Slack, Discord, and Microsoft Teams. | Next.js and React Native applications backed by scalable Node.js and Nest.js services. |
+
+## Selected experience
+
+### Ejento.ai and Data Science Dojo
+**Software Engineer II - Remote, US - Dec 2024 to present**
+
+- Built core LLM chat engines, Markdown workspaces, and text-to-speech streaming experiences.
+- Shipped workplace communication applications and automated messaging integrations for Slack, Discord, and Microsoft Teams.
+- Designed product analytics surfaces for user activity and API metrics, collaborating closely with AI researchers and product teams.
+
+### Tezaract.ai
+**Full Stack and React Native Developer - Karachi, PK - Oct 2022 to Nov 2024**
+
+- Delivered cross-platform React Native applications and Next.js products from initial build through production release.
+- Designed and shipped REST APIs and asynchronous microservices with Nest.js and Node.js.
+- Maintained SQL and NoSQL data layers for contextual AI chatbot systems, and automated mobile release operations for the App Store and Google Play.
+
+## Independent work
+
+**Headless Curator** - An automated content curation pipeline built with Python, Next.js, and Docker. Script workers generate and schedule content; a Next.js application orchestrates the workflow.
+
+**Llama2 LLM Hackathon Project** - A domain-specific AI interface built with Python, FastAPI, and Llama2, with endpoints designed for real-time inference.
+
+## Working toolkit
+
+`TypeScript` `JavaScript` `Python` `React` `Next.js` `React Native` `Node.js` `Nest.js` `FastAPI` `PostgreSQL` `MongoDB` `Docker`
 
 ---
 
-### 📡 Core Systems Inventory (Skills)
-<p align="center">
-  <a href="https://github.com/YarooqH">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,go,react,nextjs,nodejs,nestjs,fastapi,postgres,mongodb,docker,git,linux,bash&theme=dark" alt="Cargo Tech Stack" />
-  </a>
-</p>
-
----
-
-### 🚀 Flight Log: Career Missions
-
-* 🛰️ **Software Engineer II** | **Data Science Dojo**
-  *Remote, US | Dec 2024 - Present*
-  * 🧠 Engineered core LLM chat engines, Markdown workspace rendering, and TTS streaming setups for Ejento.ai.
-  * 💬 Built and shipped automated messaging adapters across Slack, Discord, and MS Teams.
-  * 📊 Designed interactive application analytics dashboards to monitor user activity and API metrics.
-  * 🤖 Partnered with AI researchers to integrate embeddable agents and document tools.
-
-* 🚀 **Full Stack & React Native Developer** | **Tezaract.ai**
-  *Karachi, PK | Oct 2022 - Nov 2024*
-  * 📱 Built and deployed cross-platform React Native apps and Next.js web applications.
-  * ⚙️ Designed and shipped backend REST APIs and microservices utilizing Nest.js and Node.js.
-  * 💾 Managed multi-tier storage layers (SQL/NoSQL) and updated structural schemas for AI chatbots.
-  * 📦 Automated App Store & Google Play provisioning and package releases.
-
----
-
-### 🛸 Hangar: Key Projects
-
-* 📂 **Headless Curator (Automated Content Curation Pipeline)**
-  *Python | Next.js | Docker*
-  * Engineered automated script workers to programmatically generate and schedule layout content.
-  * Containerized generation logic into worker layers controlled via a Next.js orchestrator.
-  
-* 📂 **Llama2 LLM Hackathon Project**
-  *Python | FastAPI | Llama2*
-  * Developed custom domain-specific AI interface using open-source models with real-time inference.
-
----
-
-### 🎓 Star Credentials & Education
-
-* 🎓 **Bachelors of Computer Science** | **University of Karachi (UBIT)**
-  *Karachi, PK | 2020 - 2024*
-* 🏆 **Google UX Design Professional Certificate** | *Coursera*
-* 🏆 **Microsoft Certified: Azure Fundamentals (AZ-900)**
+Based in Karachi, Pakistan. Open to software engineering opportunities focused on AI products, full-stack systems, and developer-facing tools.

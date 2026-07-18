@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="530" viewBox="0 0 1200 530" role="img" aria-labelledby="title desc">
+  <title id="title">Yarooq Anwar - AI Product Engineer</title>
+  <desc id="desc">A bold typographic profile banner with a systems map representing AI products, integrations, and delivery.</desc>
+  <rect width="1200" height="530" fill="#10211d"/>
+  <path d="M0 76H1200M0 454H1200" stroke="#dbe8d5" stroke-opacity=".22"/>
+  <path d="M70 106H276M924 106H1130M70 426H302M876 426H1130" stroke="#dbe8d5" stroke-opacity=".42" stroke-width="2"/>
+  <g fill="none" stroke="#dbe8d5" stroke-opacity=".45" stroke-width="2">
+    <path d="M98 178H256L326 248H474"/>
+    <path d="M102 353H270L364 283H492"/>
+    <path d="M1094 174H942L868 245H726"/>
+    <path d="M1090 352H924L840 285H712"/>
+  </g>
+  <g fill="#dbe8d5">
+    <circle cx="98" cy="178" r="6"/><circle cx="102" cy="353" r="6"/><circle cx="1094" cy="174" r="6"/><circle cx="1090" cy="352" r="6"/>
+  </g>
+  <g fill="#f15d4a">
+    <rect x="248" y="170" width="16" height="16"/><rect x="262" y="345" width="16" height="16"/>
+    <rect x="934" y="166" width="16" height="16"/><rect x="916" y="344" width="16" height="16"/>
+  </g>
+  <g fill="#d7ec55">
+    <path d="M326 239l10 10-10 10-10-10z"/><path d="M364 274l10 10-10 10-10-10z"/>
+    <path d="M868 236l10 10-10 10-10-10z"/><path d="M840 276l10 10-10 10-10-10z"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#dbe8d5">
+    <text x="70" y="46" font-size="14" font-weight="700" letter-spacing="3">SYSTEMS / PRODUCTS / PEOPLE</text>
+    <text x="1130" y="46" text-anchor="end" font-size="14" font-weight="700" letter-spacing="3">KARACHI - REMOTE</text>
+    <text x="600" y="222" text-anchor="middle" font-size="76" font-weight="800" letter-spacing="1">YAROOQ ANWAR</text>
+    <text x="600" y="280" text-anchor="middle" font-size="24" font-weight="700" letter-spacing="6" fill="#d7ec55">AI PRODUCT ENGINEER</text>
+    <text x="600" y="323" text-anchor="middle" font-size="19" font-weight="400" fill="#dbe8d5">Interfaces, agents, integrations, and the systems that make them work.</text>
+    <text x="70" y="496" font-size="14" font-weight="700" letter-spacing="2">01 / BUILD WITH INTENT</text>
+    <text x="1130" y="496" text-anchor="end" font-size="14" font-weight="700" letter-spacing="2">SOFTWARE ENGINEER II</text>
+  </g>
+</svg>
