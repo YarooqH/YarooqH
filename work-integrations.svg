@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Workplace integrations</title>
+  <desc id="desc">A diagram representing messaging systems connected through an integration layer.</desc>
+  <rect width="1200" height="420" fill="#1e252b"/>
+  <rect x="40" y="40" width="1120" height="340" fill="none" stroke="#e7e3dc" stroke-opacity=".3"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="88" fill="#f2eee7" font-size="16" font-weight="700" letter-spacing="3">CONNECTED WORKPLACE TOOLS</text>
+    <text x="72" y="121" fill="#afbbc0" font-size="16">Messages, events, and automation in motion.</text>
+  </g>
+  <g fill="none" stroke="#f2eee7" stroke-opacity=".4" stroke-width="2">
+    <path d="M298 192H440M298 282H440M760 237H912"/>
+  </g>
+  <g fill="#f2eee7"><path d="M429 184l14 8-14 8z"/><path d="M429 274l14 8-14 8z"/><path d="M901 229l14 8-14 8z"/></g>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700">
+    <rect x="72" y="155" width="226" height="74" fill="#28353c" stroke="#71c5c0" stroke-width="2"/>
+    <text x="96" y="190" fill="#f2eee7" font-size="17">SLACK</text><text x="96" y="212" fill="#a7b9bc" font-size="12" letter-spacing="2">MESSAGES</text>
+    <rect x="72" y="245" width="226" height="74" fill="#28353c" stroke="#f48669" stroke-width="2"/>
+    <text x="96" y="280" fill="#f2eee7" font-size="17">DISCORD / TEAMS</text><text x="96" y="302" fill="#a7b9bc" font-size="12" letter-spacing="2">EVENTS</text>
+    <rect x="440" y="145" width="320" height="184" fill="#e7e3dc"/>
+    <text x="475" y="188" fill="#1e252b" font-size="15" letter-spacing="3">INTEGRATION LAYER</text>
+    <rect x="475" y="213" width="250" height="18" fill="#1e252b"/><rect x="475" y="246" width="206" height="18" fill="#f48669"/><rect x="475" y="279" width="144" height="18" fill="#1e252b"/>
+    <rect x="912" y="183" width="216" height="108" fill="#28353c" stroke="#71c5c0" stroke-width="2"/>
+    <text x="937" y="222" fill="#f2eee7" font-size="16">TEAM WORKFLOW</text><text x="937" y="247" fill="#a7b9bc" font-size="12" letter-spacing="2">AUTOMATION + ACTION</text>
+  </g>
+  <text x="72" y="346" fill="#f2eee7" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">CONNECT  -  ROUTE  -  AUTOMATE  -  DELIVER</text>
+</svg>

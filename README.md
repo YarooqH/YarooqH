@@ -13,15 +13,33 @@
   <a href="https://github.com/YarooqH">GitHub</a>
 </p>
 
-I am a Software Engineer II building AI-powered products across web, mobile, and workplace systems. I work from the product interface through the services and integrations behind it: LLM experiences, real-time collaboration, APIs, and the operational tooling that keeps them useful.
+I build AI-powered products that people can use: conversational interfaces, workplace integrations, and the web and mobile systems behind them.
 
-## What I build
+<p align="center">
+  <img alt="A visual map of Yarooq's work on AI product systems" src="https://raw.githubusercontent.com/YarooqH/YarooqH/main/work-ai-systems.svg" width="100%">
+</p>
 
-| AI product systems | Connected workplace tools | Production applications |
-| --- | --- | --- |
-| LLM chat experiences, embeddable agents, document tools, and streaming interfaces. | Messaging adapters and automation across Slack, Discord, and Microsoft Teams. | Next.js and React Native applications backed by scalable Node.js and Nest.js services. |
+### AI product systems
 
-## Selected experience
+LLM chat engines, Markdown workspaces, text-to-speech streaming, embeddable agents, and document tools - designed around useful product interactions, not isolated model demos.
+
+<p align="center">
+  <img alt="A visual map of Yarooq's workplace integration work" src="https://raw.githubusercontent.com/YarooqH/YarooqH/main/work-integrations.svg" width="100%">
+</p>
+
+### Workplace integrations
+
+Communication applications and automation that connect teams across Slack, Discord, and Microsoft Teams, with the services and event flows required to make those integrations dependable.
+
+<p align="center">
+  <img alt="A visual map of Yarooq's full-stack delivery work" src="https://raw.githubusercontent.com/YarooqH/YarooqH/main/work-delivery.svg" width="100%">
+</p>
+
+### From interface to infrastructure
+
+I ship Next.js and React Native applications alongside Node.js and Nest.js APIs, data layers, Docker workflows, and the release operations that take a product to production.
+
+## Where I have shipped
 
 ### Ejento.ai and Data Science Dojo
 **Software Engineer II - Remote, US - Dec 2024 to present**
@@ -37,7 +55,7 @@ I am a Software Engineer II building AI-powered products across web, mobile, and
 - Designed and shipped REST APIs and asynchronous microservices with Nest.js and Node.js.
 - Maintained SQL and NoSQL data layers for contextual AI chatbot systems, and automated mobile release operations for the App Store and Google Play.
 
-## Independent work
+## Independent builds
 
 **Headless Curator** - An automated content curation pipeline built with Python, Next.js, and Docker. Script workers generate and schedule content; a Next.js application orchestrates the workflow.
 

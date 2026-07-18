@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Full stack delivery</title>
+  <desc id="desc">A diagram showing web and mobile products delivered with APIs, data, and release infrastructure.</desc>
+  <rect width="1200" height="420" fill="#27354c"/>
+  <rect x="40" y="40" width="1120" height="340" fill="none" stroke="#e8eff8" stroke-opacity=".32"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="88" fill="#e8eff8" font-size="16" font-weight="700" letter-spacing="3">FROM INTERFACE TO INFRASTRUCTURE</text>
+    <text x="72" y="121" fill="#b6c6d9" font-size="16">Build the product. Ship the product. Keep it running.</text>
+  </g>
+  <g stroke="#e8eff8" stroke-opacity=".42" stroke-width="2" fill="none"><path d="M305 237H406M621 237H724M939 237H1038"/></g>
+  <g fill="#e8eff8"><path d="M395 229l14 8-14 8z"/><path d="M713 229l14 8-14 8z"/><path d="M1027 229l14 8-14 8z"/></g>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700">
+    <rect x="72" y="168" width="233" height="138" rx="8" fill="#d9e4f2"/>
+    <rect x="94" y="193" width="74" height="88" fill="#27354c"/><rect x="179" y="193" width="102" height="52" fill="#f16f5a"/><rect x="179" y="256" width="102" height="25" fill="#27354c"/>
+    <text x="94" y="333" fill="#e8eff8" font-size="13" letter-spacing="2">WEB + MOBILE</text>
+    <rect x="406" y="168" width="215" height="138" rx="8" fill="#3b5180" stroke="#91b4f3" stroke-width="2"/>
+    <text x="431" y="207" fill="#e8eff8" font-size="15" letter-spacing="2">API SERVICES</text>
+    <path d="M431 229h135v15H431zm0 27h101v15H431z" fill="#91b4f3"/>
+    <text x="431" y="333" fill="#e8eff8" font-size="13" letter-spacing="2">NODE + NEST</text>
+    <rect x="724" y="168" width="215" height="138" rx="8" fill="#d9e4f2"/>
+    <ellipse cx="780" cy="211" rx="28" ry="10" fill="#27354c"/><path d="M752 211v48c0 13 56 13 56 0v-48" fill="#27354c"/><ellipse cx="780" cy="259" rx="28" ry="10" fill="#f16f5a"/>
+    <text x="821" y="218" fill="#27354c" font-size="15">DATA</text><text x="821" y="242" fill="#27354c" font-size="13" letter-spacing="2">SQL / NOSQL</text>
+    <text x="747" y="333" fill="#e8eff8" font-size="13" letter-spacing="2">PERSISTENCE</text>
+    <rect x="1038" y="168" width="90" height="138" rx="8" fill="#f16f5a"/>
+    <path d="M1064 224h38v34h-38z" fill="none" stroke="#27354c" stroke-width="4"/><path d="M1072 216h22" stroke="#27354c" stroke-width="4"/>
+    <text x="1049" y="282" fill="#27354c" font-size="11" letter-spacing="1">RELEASE</text>
+  </g>
+  <text x="72" y="370" fill="#e8eff8" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">PRODUCT SURFACE  -  SERVICES  -  DATA  -  PRODUCTION</text>
+</svg>

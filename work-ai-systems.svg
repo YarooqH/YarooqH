@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">AI product systems</title>
+  <desc id="desc">A diagram showing a conversational product interface, agent orchestration, document context, and voice output.</desc>
+  <rect width="1200" height="420" fill="#12332c"/>
+  <rect x="40" y="40" width="1120" height="340" fill="none" stroke="#cde8dc" stroke-opacity=".35"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="88" fill="#d9eee4" font-size="16" font-weight="700" letter-spacing="3">AI PRODUCT SYSTEMS</text>
+    <text x="72" y="121" fill="#8fb7aa" font-size="16">Turning an interaction into a working product loop.</text>
+  </g>
+  <g stroke="#d9eee4" stroke-opacity=".38" stroke-width="2" fill="none">
+    <path d="M352 210H435"/><path d="M670 210H750"/><path d="M926 210H1010"/>
+  </g>
+  <g fill="#d9eee4"><path d="M424 202l14 8-14 8z"/><path d="M659 202l14 8-14 8z"/><path d="M999 202l14 8-14 8z"/></g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="72" y="160" width="280" height="132" rx="8" fill="#1c4a3d" stroke="#79c9a9" stroke-width="2"/>
+    <text x="96" y="194" fill="#d9eee4" font-size="13" font-weight="700" letter-spacing="2">CONVERSATION</text>
+    <rect x="96" y="212" width="165" height="15" rx="7" fill="#d9eee4" fill-opacity=".85"/>
+    <rect x="145" y="239" width="154" height="15" rx="7" fill="#f26955"/>
+    <rect x="96" y="266" width="118" height="8" rx="4" fill="#d9eee4" fill-opacity=".42"/>
+    <rect x="435" y="160" width="235" height="132" rx="8" fill="#e8f0d2"/>
+    <text x="459" y="194" fill="#17382f" font-size="13" font-weight="700" letter-spacing="2">AGENT LOOP</text>
+    <circle cx="491" cy="238" r="22" fill="#17382f"/>
+    <circle cx="552" cy="238" r="22" fill="#f26955"/>
+    <circle cx="613" cy="238" r="22" fill="#17382f"/>
+    <path d="M513 238h17M574 238h17" stroke="#17382f" stroke-width="3"/>
+    <rect x="750" y="160" width="176" height="132" rx="8" fill="#1c4a3d" stroke="#79c9a9" stroke-width="2"/>
+    <text x="774" y="194" fill="#d9eee4" font-size="13" font-weight="700" letter-spacing="2">CONTEXT</text>
+    <path d="M779 214h81v12h-81zm0 20h110v12H779zm0 20h91v12h-91z" fill="#d9eee4" fill-opacity=".8"/>
+    <rect x="1010" y="160" width="118" height="132" rx="8" fill="#f26955"/>
+    <text x="1033" y="194" fill="#17382f" font-size="13" font-weight="700" letter-spacing="2">VOICE</text>
+    <path d="M1038 250v-22m13 34v-46m13 56v-66m13 53v-40m13 30v-20" stroke="#17382f" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <text x="72" y="346" fill="#d9eee4" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">INTERFACE  -  REASONING  -  CONTEXT  -  RESPONSE</text>
+</svg>
