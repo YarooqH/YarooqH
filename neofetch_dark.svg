@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Fira Code, Consolas, Monaco, monospace" width="620" height="320">
+  <rect width="620" height="320" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1.5" />
+
+  <!-- title bar -->
+  <path d="M0,8 A8,8 0 0,1 8,0 L612,0 A8,8 0 0,1 620,8 L620,30 L0,30 Z" fill="#161b22" />
+  <circle cx="15" cy="15" r="5" fill="#ff5f56" />
+  <circle cx="30" cy="15" r="5" fill="#ffbd2e" />
+  <circle cx="45" cy="15" r="5" fill="#27c93f" />
+  <text x="310" y="19" font-size="12" fill="#8b949e" text-anchor="middle">yarooq@gh — zsh</text>
+
+  <!-- prompt glyph (vector, left) -->
+  <g stroke="#00ffcc" stroke-width="13" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 92 L112 138 L48 184" />
+    <path d="M66 216 L146 216" />
+  </g>
+  <text x="48" y="262" font-size="12" fill="#8b949e">uptime 5 years, 10 months, 22 days</text>
+  <text x="48" y="282" font-size="12" fill="#8b949e">25 public repos</text>
+
+  <!-- info block (right) -->
+  <g font-size="14">
+    <text x="205" y="78" fill="#e6edf3" font-weight="bold" font-size="19">yarooq anwar</text>
+    <text x="205" y="100" fill="#8b949e" font-size="13">software engineer</text>
+    <line x1="205" y1="114" x2="560" y2="114" stroke="#30363d" stroke-width="1" />
+
+    <text x="205" y="142" fill="#7ee787">stack</text>
+    <text x="290" y="142" fill="#c9d1d9">typescript · python · go</text>
+
+    <text x="205" y="168" fill="#7ee787">focus</text>
+    <text x="290" y="168" fill="#c9d1d9">llm systems · full-stack web</text>
+
+    <text x="205" y="194" fill="#7ee787">shipping</text>
+    <text x="290" y="194" fill="#c9d1d9">ios · android · web</text>
+
+    <text x="205" y="220" fill="#7ee787">commits</text>
+    <text x="290" y="220" fill="#c9d1d9">2,840+</text>
+
+    <text x="205" y="246" fill="#7ee787">location</text>
+    <text x="290" y="246" fill="#c9d1d9">karachi · remote us hours</text>
+
+    <text x="205" y="272" fill="#7ee787">status</text>
+    <circle cx="296" cy="267" r="4" fill="#3fb950" />
+    <text x="306" y="272" fill="#3fb950">open to interesting problems</text>
+  </g>
+
+  <!-- palette -->
+  <g>
+    <rect x="205" y="292" width="38" height="10" rx="2" fill="#0d1117" />
+    <rect x="249" y="292" width="38" height="10" rx="2" fill="#ff7b72" />
+    <rect x="293" y="292" width="38" height="10" rx="2" fill="#7ee787" />
+    <rect x="337" y="292" width="38" height="10" rx="2" fill="#d2a8ff" />
+    <rect x="381" y="292" width="38" height="10" rx="2" fill="#79c0ff" />
+    <rect x="425" y="292" width="38" height="10" rx="2" fill="#ffa657" />
+    <rect x="469" y="292" width="38" height="10" rx="2" fill="#00ffcc" />
+  </g>
+</svg>

@@ -1,33 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="530" viewBox="0 0 1200 530" role="img" aria-labelledby="title desc">
-  <title id="title">Yarooq Anwar - AI Product Engineer</title>
-  <desc id="desc">A bold typographic profile banner with a systems map representing AI products, integrations, and delivery.</desc>
-  <rect width="1200" height="530" fill="#e9f0eb"/>
-  <path d="M0 76H1200M0 454H1200" stroke="#18342d" stroke-opacity=".25"/>
-  <path d="M70 106H276M924 106H1130M70 426H302M876 426H1130" stroke="#18342d" stroke-opacity=".5" stroke-width="2"/>
-  <g fill="none" stroke="#18342d" stroke-opacity=".45" stroke-width="2">
-    <path d="M98 178H256L326 248H474"/>
-    <path d="M102 353H270L364 283H492"/>
-    <path d="M1094 174H942L868 245H726"/>
-    <path d="M1090 352H924L840 285H712"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">qray</title>
+  <desc id="desc">A minimal qray work-index banner in warm cream and olive, with a geometric q mark and an animated pixel-space scene.</desc>
+
+  <style>
+    .asteroid-a { animation: drift-a 14s linear infinite; }
+    .asteroid-b { animation: drift-b 19s linear infinite; }
+    .ship { animation: patrol 12s steps(32, end) infinite alternate; }
+    .thruster { animation: blink .8s steps(2, end) infinite; }
+    @keyframes drift-a { from { transform: translateX(0); } to { transform: translateX(-1080px); } }
+    @keyframes drift-b { from { transform: translateX(0); } to { transform: translateX(-980px); } }
+    @keyframes patrol { from { transform: translateX(0); } to { transform: translateX(690px); } }
+    @keyframes blink { 0%, 45% { opacity: 1; } 46%, 100% { opacity: .25; } }
+    @media (prefers-reduced-motion: reduce) {
+      .asteroid-a, .asteroid-b, .ship, .thruster { animation: none; }
+    }
+    @media (max-width: 600px) {
+      .microcopy { display: none; }
+      .brand-name { font-size: 110px; }
+      .brand-role { font-size: 34px; }
+    }
+  </style>
+
+  <rect width="1200" height="420" fill="#f5f0d5"/>
+
+  <g fill="#5b6651">
+    <circle cx="83" cy="65" r="2" opacity=".35"/>
+    <circle cx="462" cy="48" r="1.5" opacity=".24"/>
+    <circle cx="625" cy="90" r="2" opacity=".2"/>
+    <circle cx="1089" cy="54" r="1.5" opacity=".3"/>
+    <circle cx="1144" cy="176" r="2" opacity=".2"/>
   </g>
-  <g fill="#18342d">
-    <circle cx="98" cy="178" r="6"/><circle cx="102" cy="353" r="6"/><circle cx="1094" cy="174" r="6"/><circle cx="1090" cy="352" r="6"/>
+
+  <g fill="#20281c">
+    <text class="microcopy" x="72" y="70" font-family="Consolas, 'Cascadia Code', monospace" font-size="13" letter-spacing="1.8">QRAY / WORK INDEX</text>
+    <text class="microcopy" x="1128" y="70" text-anchor="end" font-family="Consolas, 'Cascadia Code', monospace" font-size="13">qray.dev</text>
+    <text class="brand-name" x="72" y="208" font-family="Georgia, 'Times New Roman', serif" font-size="86" letter-spacing="-4">qray</text>
+    <text class="brand-role" x="77" y="250" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#5b6651">building software</text>
+    <text class="microcopy" x="74" y="343" font-family="Consolas, 'Cascadia Code', monospace" font-size="12" letter-spacing="1.2" fill="#5b6651">SELECTED WORK CONTINUES BELOW</text>
   </g>
-  <g fill="#d74e3e">
-    <rect x="248" y="170" width="16" height="16"/><rect x="262" y="345" width="16" height="16"/>
-    <rect x="934" y="166" width="16" height="16"/><rect x="916" y="344" width="16" height="16"/>
+
+  <g class="asteroid-a" fill="#5b6651" opacity=".72" shape-rendering="crispEdges">
+    <g transform="translate(1134 118)">
+      <rect x="8" y="0" width="12" height="4"/><rect x="4" y="4" width="20" height="12"/>
+      <rect x="8" y="16" width="12" height="4"/><rect x="0" y="8" width="4" height="4"/>
+      <rect x="20" y="8" width="8" height="4" fill="#f5f0d5"/>
+    </g>
   </g>
-  <g fill="#859d08">
-    <path d="M326 239l10 10-10 10-10-10z"/><path d="M364 274l10 10-10 10-10-10z"/>
-    <path d="M868 236l10 10-10 10-10-10z"/><path d="M840 276l10 10-10 10-10-10z"/>
+  <g class="asteroid-b" fill="#5b6651" opacity=".5" shape-rendering="crispEdges">
+    <g transform="translate(1036 296)">
+      <rect x="6" y="0" width="8" height="3"/><rect x="3" y="3" width="17" height="11"/>
+      <rect x="7" y="14" width="10" height="3"/><rect x="0" y="7" width="3" height="5"/>
+      <rect x="14" y="6" width="6" height="4" fill="#f5f0d5"/>
+    </g>
   </g>
-  <g font-family="Arial, Helvetica, sans-serif" fill="#18342d">
-    <text x="70" y="46" font-size="14" font-weight="700" letter-spacing="3">SYSTEMS / PRODUCTS / PEOPLE</text>
-    <text x="1130" y="46" text-anchor="end" font-size="14" font-weight="700" letter-spacing="3">KARACHI - REMOTE</text>
-    <text x="600" y="222" text-anchor="middle" font-size="76" font-weight="800" letter-spacing="1">YAROOQ ANWAR</text>
-    <text x="600" y="280" text-anchor="middle" font-size="24" font-weight="700" letter-spacing="6" fill="#6b8100">AI PRODUCT ENGINEER</text>
-    <text x="600" y="323" text-anchor="middle" font-size="19" font-weight="400">Interfaces, agents, integrations, and the systems that make them work.</text>
-    <text x="70" y="496" font-size="14" font-weight="700" letter-spacing="2">01 / BUILD WITH INTENT</text>
-    <text x="1130" y="496" text-anchor="end" font-size="14" font-weight="700" letter-spacing="2">SOFTWARE ENGINEER II</text>
+
+  <g transform="translate(815 43) scale(.47)">
+    <circle cx="323.5" cy="323.5" r="268" fill="#20281c"/>
+    <path d="M261.915 350.273H334.642V204.818H261.915V132.091H407.369V495.727H334.642V423H261.915V350.273ZM261.915 350.273H189.188V204.818H261.915V350.273Z" fill="#f4e7b7"/>
+  </g>
+
+  <g fill="none" stroke="#5b6651" stroke-linecap="square">
+    <path d="M0 384L45 382L82 386L124 381L174 383L214 377L260 381L302 379L348 384L391 380L434 382L476 376L519 379L558 381L602 377L646 383L692 379L734 382L779 376L826 381L868 379L914 384L958 380L1001 382L1044 378L1086 383L1132 379L1200 382" stroke-width="2" stroke-dasharray="2 4" opacity=".75"/>
+    <path d="M242 380V356M238 356H246M240 351H244M580 379V349M575 349H585M578 344H582M944 380V352M939 352H949M942 347H946" stroke-width="2"/>
+  </g>
+  <g fill="#5b6651">
+    <rect x="239" y="361" width="6" height="4"/>
+    <rect x="577" y="354" width="6" height="5"/>
+    <rect x="941" y="357" width="6" height="4"/>
+  </g>
+  <g class="ship" transform="translate(74 363)" shape-rendering="crispEdges">
+    <g fill="#20281c">
+      <rect x="8" y="0" width="10" height="4"/>
+      <rect x="4" y="4" width="22" height="7"/>
+      <rect x="10" y="11" width="10" height="4"/>
+      <rect x="26" y="7" width="5" height="4"/>
+    </g>
+    <rect class="thruster" x="0" y="6" width="4" height="5" fill="#5b6651"/>
   </g>
 </svg>
