@@ -1,6 +1,6 @@
 # qray
 
-Software engineer in Karachi, Pakistan. I build useful products across web, mobile, and AI tooling.
+Senior software engineer in Karachi, Pakistan. I build useful products across web, mobile, and AI tooling.
 
 Currently a Software Engineer II at [Data Science Dojo](https://datasciencedojo.com/), working on LLM-powered product experiences, messaging integrations, and developer tools.
 
