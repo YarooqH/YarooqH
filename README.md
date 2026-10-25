@@ -21,9 +21,8 @@ TypeScript, React, React Native, Next.js, Node.js, NestJS, Python, REST APIs, SQ
 
 ## Background
 
-- Software Engineer II at Data Science Dojo — building LLM chat experiences, Markdown workspaces, TTS streaming, messaging integrations, analytics, and embeddable agents.
-- Previously a Full Stack & React Native Developer at Tezaract.ai — shipped cross-platform apps, Next.js applications, Node.js services, and release automation.
-- BSc in Computer Science, University of Karachi (UBIT).
+- building LLM chat experiences, Markdown workspaces, TTS streaming, messaging integrations, analytics, and embeddable agents.
+- shipped cross-platform apps, Next.js applications, Node.js services, and release automation.
 
 ## Elsewhere
 
