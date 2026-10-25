@@ -2,7 +2,7 @@
 
 Senior software engineer in Karachi, Pakistan. I build useful products across web, mobile, and AI tooling.
 
-Currently a Software Engineer II at [Data Science Dojo](https://datasciencedojo.com/), working on LLM-powered product experiences, messaging integrations, and developer tools.
+Currently working at [Data Science Dojo](https://datasciencedojo.com/), working on LLM-powered product experiences, messaging integrations, and developer tools.
 
 Find me at [qray.dev](https://qray.dev/) or [@qraydient on X](https://x.com/qraydient).
 
